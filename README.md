@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveed Wazed Khan</h1>
 <h3 align="center">I am an undergraduate student at CUET CSE.I have a keen interest in competitive programming and app development.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif&rdt=33542">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveed2204016&label=Profile%20views&color=0e75b6&style=flat" alt="naveed2204016" /> </p>
 
