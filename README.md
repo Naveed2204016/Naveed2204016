@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naveed Wazed Khan</h1>
-<h3 align="center">I am an undergraduate student at CUET CSE.I have a keen interest in competitive programming and app development.</h3>
+<h3 align="center">I am an undergraduate student at CUET CSE.I have a keen interest in competitive programming and Machine Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveed2204016&label=Profile%20views&color=0e75b6&style=flat" alt="naveed2204016" /> </p>
 
-- 🌱 I’m currently learning **C#,OOP and Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Machine Learning and Data Structures and Algorithms.**
 
 - 📫 How to reach me **khan10naveed@gmail.com**
 
