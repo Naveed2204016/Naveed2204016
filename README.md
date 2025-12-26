@@ -71,10 +71,5 @@ I am an undergraduate student at CUET CSE. I have a keen interest in competitive
 
 <br>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed2204016&layout=compact" />
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveed2204016" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed2204016&show_icons=true&locale=en&layout=compact" alt="naveed2204016" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed2204016&" alt="naveed2204016" /></p>
