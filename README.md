@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveed Wazed Khan</h1>
 <h3 align="center">
-I am an undergraduate student at CUET CSE. I have a keen interest in competitive programming and Machine Learning.
+I am an undergraduate student at CUET CSE. I have a keen interest in competitive programming and Deep Learning.
 </h3>
 
 <img align="right" alt="Coding" width="380" src="./landing-image-1.jpg">
@@ -10,7 +10,7 @@ I am an undergraduate student at CUET CSE. I have a keen interest in competitive
 </p>
 
 <p>
-🌱 Currently learning <b>Machine Learning</b> and <b>Data Structures & Algorithms</b><br>
+🌱 Currently learning <b>Deep Learning</b> and <b>Data Structures & Algorithms</b><br>
 📫 Reach me at <b>khan10naveed@gmail.com</b>
 </p>
 
