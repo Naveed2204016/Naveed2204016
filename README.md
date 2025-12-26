@@ -85,6 +85,4 @@ As engineers and researchers, we must not remain silent in the face of oppressio
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed2204016&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed2204016" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed2204016&" alt="naveed2204016" /></p>
