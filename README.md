@@ -35,41 +35,56 @@ I am an undergraduate student at CUET CSE. I have a keen interest in competitive
 
 <br>
 
-<h3>Things I work with</h3>
+<h3>🛠️ My Tech</h3>
 
 <p>
-<b>Languages</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38"/>
+<b>Languages —</b><br>
+<img src="https://img.shields.io/static/v1?&message=C&color=00599C&logo=c&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=cplusplus&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=Java&color=c93618&logo=java&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label="/>
+<img src="https://img.shields.io/static/v1?&message=C+Sharp&color=2d07ad&logo=csharp&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=SQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label="/>
 </p>
 
 <p>
-<b>AI / ML</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="38"/>
+<b>Machine Learning / AI —</b><br>
+<img src="https://img.shields.io/static/v1?&message=Scikit-Learn&color=F7931E&logo=scikitlearn&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=Keras&color=D00000&logo=keras&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=NumPy&color=658cf0&logo=numpy&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label="/>
 </p>
 
 <p>
-<b>Backend & UI</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="38"/>
+<b>Backend / UI —</b><br>
+<img src="https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=mysql&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=JavaFX&color=2c2255&logo=java&logoColor=FFFFFF&label="/>
 </p>
 
 <p>
-<b>Tools</b><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38"/>
+<b>Tools —</b><br>
+<img src="https://img.shields.io/static/v1?&message=Git&color=F05032&logo=git&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?&message=GitHub&color=000000&logo=github&logoColor=FFFFFF&label="/>
 </p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed2204016&show_icons=true&locale=en&layout=compact" alt="naveed2204016" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed2204016&" alt="naveed2204016" /></p>
+<h3>🇵🇸 A Note That Matters</h3>
+<p>
+I stand in solidarity with the people of <b>Palestine</b>.  
+As engineers and researchers, we must not remain silent in the face of oppression and genocide.
+<br><br>
+<b>Free Palestine. 🇵🇸</b>
+</p>
+
+<br>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed2204016&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed2204016" />
+</p>
