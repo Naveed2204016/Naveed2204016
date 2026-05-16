@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Computer Science & Engineering undergraduate at CUET <br>
-Competitive Programmer • AI Enthusiast • Backend & LLM Developer
+Competitive Programmer • AI Enthusiast
 </h3>
 
 <img align="right" alt="Coding" width="380" src="./landing-image-1.jpg">
