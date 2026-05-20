@@ -12,8 +12,8 @@ Competitive Programmer • AI Enthusiast
 </p>
 
 <p>
-🌱 Currently exploring <b>Deep Learning</b>, <b>RAG Systems</b>, and <b>Backend Development</b><br>
-💻 Passionate about <b>Competitive Programming</b>, <b>LLMs</b>, and scalable AI applications<br>
+🌱 Currently exploring <b>Deep Learning</b>, <b>RAG Systems</b> and <b>Backend Development</b><br>
+💻 Passionate about <b>Competitive Programming</b>, <b>LLMs</b> and scalable AI applications<br>
 📫 Reach me at <b>khan10naveed@gmail.com</b>
 </p>
 
